@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2c1dbc53-400f-6cb3-6e7b-06051ff9c849
 resourcetype: Document
 title: Take-home exam on Dickens, A Tale of Two Cities
 uid: 3d9847e3-c31f-64d6-525f-5b03a7cd9f3e

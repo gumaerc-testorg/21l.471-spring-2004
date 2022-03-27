@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2c1dbc53-400f-6cb3-6e7b-06051ff9c849
 resourcetype: Document
 title: Take-home exam on Joyce, A Portrait of the Artist as a Young Man
 uid: 8c5d79e3-36cc-ac88-1d1c-b36f094902e8

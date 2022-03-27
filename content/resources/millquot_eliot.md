@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d797cf84-82cf-3be7-702e-562b9c720f5a
 resourcetype: Document
 title: Mill Quotations for Eliot
 uid: b84eae91-6dcc-93d6-d7ba-dfd83895f687

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2c1dbc53-400f-6cb3-6e7b-06051ff9c849
 resourcetype: Document
 title: "Topics for take-home exam on Bront\xEB, Wuthering Heights."
 uid: cb3c23e4-e0b1-15d6-9fba-f0ea5de64d38

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2c1dbc53-400f-6cb3-6e7b-06051ff9c849
 resourcetype: Document
 title: Topics for take-home exam on Austen, Mansfield Park
 uid: 63dc31c1-27d1-ffd4-d4a3-6b3eab6b568b

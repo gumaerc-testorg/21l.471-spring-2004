@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2c1dbc53-400f-6cb3-6e7b-06051ff9c849
 resourcetype: Document
 title: Take-home exam on Eliot, The Mill on the Floss
 uid: 32e89ecc-4c6f-b997-d633-4921f49f2a75
