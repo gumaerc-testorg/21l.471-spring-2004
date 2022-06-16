@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, class
+  schedule, student work, and requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Class Schedule
 --------------
 
-The schedule (see [calendar]({{< baseurl >}}/pages/calendar)) shows the reading you should have done by a given day: it's designed to spread your reading fairly evenly across the semester (e.g., if four class sessions are devoted to a novel, you should read at least a quarter of the novel for each of those sessions). In class, however, I'll go slower over some parts, faster over others.
+The schedule (see {{% resource_link e8af783d-31be-1fe1-9d71-670be1c259f0 "calendar" %}}) shows the reading you should have done by a given day: it's designed to spread your reading fairly evenly across the semester (e.g., if four class sessions are devoted to a novel, you should read at least a quarter of the novel for each of those sessions). In class, however, I'll go slower over some parts, faster over others.
 
 Student Work
 ------------

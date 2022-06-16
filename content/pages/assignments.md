@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to web sites useful for completing assignments
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -421,4 +423,4 @@ Indira Gandhi; her administrations
 {{< tableclose >}}
 
   
-Mill Quotations for Eliot ([PDF]({{< baseurl >}}/resources/millquot_eliot))
+Mill Quotations for Eliot ({{% resource_link b84eae91-6dcc-93d6-d7ba-dfd83895f687 "PDF" %}})

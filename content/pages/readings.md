@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides bibliographic citations of required texts with
+  links to electronic versions at Project Gutenberg where available.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
