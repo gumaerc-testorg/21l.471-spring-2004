@@ -5,6 +5,7 @@ file: /courses/21l-471-major-english-novels-spring-2004/32e89ecc4c6fb997d6334921
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Take-home exam on Eliot, The Mill on the Floss
 uid: 32e89ecc-4c6f-b997-d633-4921f49f2a75
 ---
 Take-home exam on George Eliot's The Mill on the Floss.
-

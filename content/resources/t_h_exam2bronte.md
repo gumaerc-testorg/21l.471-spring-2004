@@ -5,6 +5,7 @@ file: /courses/21l-471-major-english-novels-spring-2004/cb3c23e4e0b115d69fbaf0ea
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Topics for take-home exam on Bront\xEB, Wuthering Heights."
 uid: cb3c23e4-e0b1-15d6-9fba-f0ea5de64d38
 ---
 Take-home exam on Emily Brontë's Wuthering Heights.
-

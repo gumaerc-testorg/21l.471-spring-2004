@@ -5,6 +5,7 @@ file: /courses/21l-471-major-english-novels-spring-2004/63dc31c127d1ffd4d4a36b3e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Topics for take-home exam on Austen, Mansfield Park
 uid: 63dc31c1-27d1-ffd4-d4a3-6b3eab6b568b
 ---
 Take-home exam on Jane Austen's Mansfield Park.
-

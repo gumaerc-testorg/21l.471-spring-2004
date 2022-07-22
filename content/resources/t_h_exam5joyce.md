@@ -6,6 +6,7 @@ file: /courses/21l-471-major-english-novels-spring-2004/8c5d79e336ccac881d1cb36f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Take-home exam on Joyce, A Portrait of the Artist as a Young Man
 uid: 8c5d79e3-36cc-ac88-1d1c-b36f094902e8
 ---
 Optional take-home exam on James Joyce's A Portrait of the Artist as a Young Man.
-
