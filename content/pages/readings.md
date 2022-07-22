@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides bibliographic citations of required texts with
+  links to electronic versions at Project Gutenberg where available.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1ee3e7bb-aff2-342e-b2ed-e2abe2e61e2e
 ---
