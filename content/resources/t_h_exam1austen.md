@@ -2,6 +2,7 @@
 content_type: resource
 description: Take-home exam on Jane Austen's Mansfield Park.
 file: /courses/21l-471-major-english-novels-spring-2004/63dc31c127d1ffd4d4a36b3eab6b568b_t_h_exam1austen.pdf
+file_size: 100912
 file_type: application/pdf
 learning_resource_types:
 - Exams

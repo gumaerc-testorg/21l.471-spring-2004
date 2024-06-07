@@ -2,6 +2,7 @@
 content_type: resource
 description: "Take-home exam on Emily Bront\xEB's Wuthering Heights."
 file: /courses/21l-471-major-english-novels-spring-2004/cb3c23e4e0b115d69fbaf0ea5de64d38_t_h_exam2bronte.pdf
+file_size: 99091
 file_type: application/pdf
 learning_resource_types:
 - Exams
