@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Take-home exam on George Eliot's The Mill on the Floss.
-file: /ol-ocw-studio-app/courses/21l-471-major-english-novels-spring-2004/32e89ecc4c6fb997d6334921f49f2a75_t_h_exam4eliot.pdf
+file: /courses/21l-471-major-english-novels-spring-2004/32e89ecc4c6fb997d6334921f49f2a75_t_h_exam4eliot.pdf
 file_size: 99847
 file_type: application/pdf
 learning_resource_types:
