@@ -113,7 +113,7 @@ Serial publication of Dickens's novels
 
 [Dickens: Life and Career](http://www.pbs.org/wnet/dickens/life_publication.html)
 
-[Dickens and the Victorian Serial Novel](http://www.uvic.ca/library/featured/collections/serials/VictorianSerialNovels.php)
+[Dickens and the Victorian Serial Novel](https://exhibits.library.duke.edu/exhibits/show/dickens200/serials#:~:text=Most%20of%20Dickens's%20novels%20were,began%2C%20allowing%20him%20to%20alter)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Walter Scott, Historical Novel
