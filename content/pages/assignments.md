@@ -83,7 +83,7 @@ The Gothic in Fiction
 
 {{< tdclose >}}{{< tdopen >}}
 
-[The Gothic Experience](http://academic.brooklyn.cuny.edu/english/melani/gothic/history.html)
+[The Gothic Experience](https://web.archive.org/web/20190204222806/https://academic.brooklyn.cuny.edu/english/melani/gothic/history.html)
 
 [Northanger Abbey](http://en.wikipedia.org/wiki/Northanger_Abbey) (See chapters 24-25)
 
